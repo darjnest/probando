@@ -1,0 +1,52 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar-color {
+    background-color: #28A745;
+}
+.cuppon {
+    height: 18px;
+}
+.cards-tam {
+    height: 100%;
+}
+.card-body p{
+    margin-bottom: 0rem;
+}
+.tex-title {
+    font-family: Roboto, Light;
+    font-weight: 500;
+    font-size: 20px;
+    color: #212529;
+}
+.tex-card {
+    color: #707070;
+    font-family: Roboto, Light;
+    font-weight: 300;
+    font-size: 16px;
+}
+.tex-cards {
+    color: #707070;
+    font-family: Roboto, Light;
+    font-weight: 300;
+    font-size: 13px;
+}
+.precio {
+    color: #707070;
+    font-family: Roboto, Light;
+    font-weight: 300;
+    font-size: 16px;
+}
+.precio-color {
+    color: #28A745;
+    font-family: Roboto, Medium;
+    font-weight: 500;
+    font-size: 20px;
+}
+.email-color {
+    background-color: #28A745;
+    color: #FFFFFF;
+    font-family: Roboto;
+}
